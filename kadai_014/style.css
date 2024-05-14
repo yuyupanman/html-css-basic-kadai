@@ -1,0 +1,56 @@
+/* フォントの種類 */
+body{
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+    }
+
+h1{
+  /* // <uniquifier>: Use a unique and descriptive class name */
+
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    letter-spacing: 1.2em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    border-bottom: 3px solid rgb(115, 115, 114);
+
+ 
+    }
+
+    
+
+/* フォントサイズ */
+:root {
+    font-size: 20px;
+  }
+
+  /* フォントカラー */
+
+
+  .text_bold{
+    font-weight: bold;
+  }
+
+  .google-fonts:first-letter {
+   color: skyblue;
+  }
+   
+/* 一部だけ色を変えます */
+span {
+  color: rgb(255, 192, 203);
+}
+.highlihgt{
+  color: skyblue;
+}
+.first-heading{
+  color: pink;
+}
+.third-heading{
+  color: pink;
+}
+
+.second-heading{
+  color: skyblue;
+}
